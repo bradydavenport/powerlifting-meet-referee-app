@@ -4,6 +4,8 @@
 
 ### About
 
+[Repository located on GitHub](https://github.com/bradydavenport/powerlifting-meet-referee-app)
+
 Powerlifitng meets - squatting, benching, and deadlifting - how complicated can they be? Well, for both lifters and managers of meets, its actually quite complicated.  A robust, comprehensive application to manage powerlifting meets - encompassing lifter registration, weight classes, meet day platform display, scoring, and more - will ensure your meet runs as smoothly as possible.
 
 This specific mobile application is an accompaniment of the main software application.  As it is necessary for 3 referees to give the 'red light' or 'white light' for each lifter for each lift, it is necessary to have an efficient method of doing so in order for lifters, spectators, and and the meet manager to see the results of each lift and whether it was a good lift or bad lift.
